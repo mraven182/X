@@ -127,10 +127,8 @@ http://tvd.naam.ro:2082/live/hotspot050124/0643003000/152780.m3u8
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/152792.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="beINSports1.tr" tvg-name=" beIN Sports 1 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3fcSGU6ei3g_6jaFtR74qgmGh3pWrmYBBazy6eRuFjcg.png" group-title="Spor", beIN Sports 1 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/2560.m3u8
-#EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name=" beIN Sports 1 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8coMqjGMjI_S5edAeDBS-HNeZZe-Lhlvw4es-mE8_kZeOg.png" group-title="Spor", beIN Sports 1 FHD
-http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154052.m3u8
-#EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name=" beIN Sports 1 4K" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8coMqjGMjI_S5edAeDBS-HNeckAFwP1_bUmYP3NdFJTFtA.png" group-title="Spor", beIN Sports 1 4K
-http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154035.m3u8
+#EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name=" beIN Sports 1 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cqyKsAEyuUT5lP8JKvqQpYtUdZemPEAO3ACYvilU7rWdg.png" group-title="Spor", beIN Sports 1 - Backup 4
+http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154054.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="beINSports2.tr" tvg-name=" beIN Sports 2 HD" tvg-logo="http://tvd.naam.ro/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3fcSGU6ei3g_6jaFtR74qgi-gj__c4s8O9uEi_wlPgLQ.png" group-title="Spor", beIN Sports 2 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/2195.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="beINSports3.tr" tvg-name=" beIN Sports 3 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3fcSGU6ei3g_6jaFtR74qgC8mPWQSP4pbvnndQ2_zJiw.png" group-title="Spor", beIN Sports 3 HD
@@ -147,10 +145,50 @@ http://tvd.naam.ro:2082/live/hotspot050124/0643003000/26066.m3u8
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/152774.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name=" beIN Sports 1 - Backup 2" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cqyKsAEyuUT5lP8JKvqQpYtm0E2YZeMQamJ3mvNG9z45Q.png" group-title="Spor", beIN Sports 1 - Backup 2
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154053.m3u8
-#EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name=" beIN Sports 1 - Backup 3" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cqyKsAEyuUT5lP8JKvqQpYtIdXC3F2trJexxyj3y6-tRw.png" group-title="Spor", beIN Sports 1 - Backup 3
-http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154055.m3u8
-#EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name=" beIN Sports 1 - Backup 4" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cqyKsAEyuUT5lP8JKvqQpYtUdZemPEAO3ACYvilU7rWdg.png" group-title="Spor", beIN Sports 1 - Backup 4
-http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154054.m3u8
+#EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name=" beIN Sports 1 HD - Backup 3" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8coMqjGMjI_S5edAeDBS-HNeZZe-Lhlvw4es-mE8_kZeOg.png" group-title="Spor", beIN Sports 1 FHD
+http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154052.m3u8
+#EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name=" beIN Sports 1 HD - Backup 4" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8coMqjGMjI_S5edAeDBS-HNeckAFwP1_bUmYP3NdFJTFtA.png" group-title="Spor", beIN Sports 1 4K
+http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154035.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor
+# ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+# ? #EXTVLCOPT:http-referrer=https://trgoals1240.xyz/
+# ? https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex7.m3u8
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
+
+
+#EXTINF:-1 tvg-name="Tabii Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43008.jpeg" group-title="Spor",Tabii Spor 2
+# ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+# ? #EXTVLCOPT:http-referrer=https://trgoals1240.xyz/
+# ? https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex2.m3u8
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII3" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43011.jpeg" group-title="Spor",Tabii Spor 3
+# ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+# ? #EXTVLCOPT:http-referrer=https://trgoals1240.xyz/
+# ? https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex3.m3u8
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII4" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43014.jpeg" group-title="Spor",Tabii Spor 4
+# ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+# ? #EXTVLCOPT:http-referrer=https://trgoals1240.xyz/
+# ? https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex4.m3u8
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII5" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43017.jpeg" group-title="Spor",Tabii Spor 5
+# ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+# ? #EXTVLCOPT:http-referrer=https://trgoals1240.xyz/
+# ? https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex5.m3u8
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",Tabii Spor 6
+# ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+# ? #EXTVLCOPT:http-referrer=https://trgoals1240.xyz/
+# ? https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex6.m3u8
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
+
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name=" Exxen Sport 1 HD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsqHhk_hkOQmK3Akk9KEDgS3HXnzEHjekgWyhvLjaSwA4.png" group-title="Spor", Exxen Sport 1 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/67347.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name=" Exxen Sport 2 HD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsqHhk_hkOQmK3Akk9KEDgS3HXnzEHjekgWyhvLjaSwA4.png" group-title="Spor", Exxen Sport 2 HD
