@@ -215,7 +215,7 @@ http://tvd.naam.ro:2082/live/hotspot050124/0643003000/834.m3u8
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/833.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="SportsTV.tr" tvg-name=" Sports TV HD" tvg-logo="http://serverwin.raam.ro:2536/png/sports.jpg" group-title="Spor", Sports TV HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/21535.m3u8
-#EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name=" NBA TV HD" tvg-logo="http://tvd.naam.ro/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8crFsheTImW66n35n7Jr7lD-utCuycJjN72gzkvhSilm5A.png" group-title="Basketbol", NBA TV HD
+#EXTINF:-1 tvg-country="EN"  tvg-id="" tvg-name=" NBA TV HD" tvg-logo="http://tvd.naam.ro/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8crFsheTImW66n35n7Jr7lD-utCuycJjN72gzkvhSilm5A.png" group-title="Basketbol", NBA TV HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/152812.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="TRTCocuk.tr" tvg-name=" TRT Cocuk HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI0jjZhHCld06eCn9tSanKQTGmI8EoppItR33TC1ElH4Hw.png" group-title="Çocuk", TRT Cocuk HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/2094.m3u8
