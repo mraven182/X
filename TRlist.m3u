@@ -1,69 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR| TRT 1 HD" tvg-logo="https://tvd.naam.ro:2083/images/GcRqxL8At-nB8_v1HwX0_rDwZXDd-G8JDHjOSzMudwMzhZaOKF-1dO40ZB0v5hkHXs6QRoSLbuiAYG7lMEeMeQ.png" group-title="Ulusual",TR| TRT 1 HD
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR| TRT 1 HD" tvg-logo="https://tvd.naam.ro:2083/images/GcRqxL8At-nB8_v1HwX0_rDwZXDd-G8JDHjOSzMudwMzhZaOKF-1dO40ZB0v5hkHXs6QRoSLbuiAYG7lMEeMeQ.png" group-title="Ulusal",TR| TRT 1 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| TRT 2 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3u7h8Q1JSDS9LShKkIu-kApvCftvThi_QDusr3mSQXGA.png" group-title="Ulusual",TR| TRT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TR| TRT 2 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3u7h8Q1JSDS9LShKkIu-kApvCftvThi_QDusr3mSQXGA.png" group-title="Ulusal",TR| TRT 2 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/16332.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR| Show TV HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl7qd-L0Hf_llIQaUI3dafPO28oAiRs7yxnHN3C9c9WBPA.png" group-title="Ulusual",TR| Show TV HD
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR| Show TV HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl7qd-L0Hf_llIQaUI3dafPO28oAiRs7yxnHN3C9c9WBPA.png" group-title="Ulusal",TR| Show TV HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/148.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR| ATV HD" tvg-logo="http://tvd.naam.ro/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl7Oe9q35qaYeiuyBtRi-0S1.png" group-title="Ulusual",TR| ATV HD
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR| ATV HD" tvg-logo="http://tvd.naam.ro/images/QbDrKAjV0v2cEAPuQSLXXMgWf_eZIgZ9AYoyfRfqhl7Oe9q35qaYeiuyBtRi-0S1.png" group-title="Ulusal",TR| ATV HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/147.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR| Kanal D HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI28XE1Am27vOKfDmHgQ45KGcPQ8f9P6LDtl6UF4_ssjCQ.png" group-title="Ulusual",TR| Kanal D HD
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR| Kanal D HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI28XE1Am27vOKfDmHgQ45KGcPQ8f9P6LDtl6UF4_ssjCQ.png" group-title="Ulusal",TR| Kanal D HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/156.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="TR| Star TV HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI09Y5iNim0Jv7GGkDiThDw4soj9hhrUt1afFqjlPTI0Zg.png" group-title="Ulusual",TR| Star TV HD
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="TR| Star TV HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI09Y5iNim0Jv7GGkDiThDw4soj9hhrUt1afFqjlPTI0Zg.png" group-title="Ulusal",TR| Star TV HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/149.m3u8
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="TR| Fox TV HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI1evZKaixvQk6fsP7G-98MrcNvK-_Fnw57JW8B1QjmJNQ.png" group-title="Ulusual",TR| Fox TV HD
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="TR| Fox TV HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI1evZKaixvQk6fsP7G-98MrcNvK-_Fnw57JW8B1QjmJNQ.png" group-title="Ulusal",TR| Fox TV HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/150.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR| TV 8 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI1eiqWtaa2jXTuuve1zuhxUTvMWn2J359wUZiEztw8EGg.png" group-title="Ulusual",TR| TV 8 HD
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR| TV 8 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI1eiqWtaa2jXTuuve1zuhxUTvMWn2J359wUZiEztw8EGg.png" group-title="Ulusal",TR| TV 8 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/153.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TR| TV 8,5 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI0P9jCFDbXewa3ejyalnq1P0-nAeRr74J4x73TTzgpLNw.png" group-title="Spor",TR| TV 8,5 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/2198.m3u8
-#EXTINF:-1 tvg-id="TV2.tr" tvg-name="TR| Teve 2" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI1Tox7_pyFqSkReS1bwBrFBImO2qHS6yNKdR7fWBrMbvQ.png" group-title="Ulusual",TR| Teve 2
+#EXTINF:-1 tvg-id="TV2.tr" tvg-name="TR| Teve 2" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI1Tox7_pyFqSkReS1bwBrFBImO2qHS6yNKdR7fWBrMbvQ.png" group-title="Ulusal",TR| Teve 2
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/294.m3u8
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR| Kanal 7 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3t9C9dSmAOzGoHp7aOUXm32OSH0vpHaxpGy_6rMiC5vA.png" group-title="Ulusual",TR| Kanal 7 HD
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="TR| Kanal 7 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3t9C9dSmAOzGoHp7aOUXm32OSH0vpHaxpGy_6rMiC5vA.png" group-title="Ulusal",TR| Kanal 7 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/173.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="TR| Beyaz TV HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI13eOxMx-aPnHlLZuhfXWg9yQFTHfsasak2vRpMFT1D7g.png" group-title="Ulusual",TR| Beyaz TV HD
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="TR| Beyaz TV HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI13eOxMx-aPnHlLZuhfXWg9yQFTHfsasak2vRpMFT1D7g.png" group-title="Ulusal",TR| Beyaz TV HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/205.m3u8
-#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR| A2 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3cJpe8Tsqg__cC2izcYsAN9K2XAZyZf-2L1czS9dDW5g.png" group-title="Ulusual",TR| A2 HD
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR| A2 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3cJpe8Tsqg__cC2izcYsAN9K2XAZyZf-2L1czS9dDW5g.png" group-title="Ulusal",TR| A2 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/2103.m3u8
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TR| TRT Türk HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI2Xoub8CqH1l9WInaKjyne5kz0onamcduYVqu3yhrFmjw.png" group-title="Ulusual",TR| TRT Türk HD
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TR| TRT Türk HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI2Xoub8CqH1l9WInaKjyne5kz0onamcduYVqu3yhrFmjw.png" group-title="Ulusal",TR| TRT Türk HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/638.m3u8
-#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="TR| Show Max HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3B5lv3QlL9OhrvHdO5yXCozMc1X1RyXDv5aR_bl_XvNw.png" group-title="Ulusual",TR| Show Max HD
+#EXTINF:-1 tvg-id="Showmax.tr" tvg-name="TR| Show Max HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3B5lv3QlL9OhrvHdO5yXCozMc1X1RyXDv5aR_bl_XvNw.png" group-title="Ulusal",TR| Show Max HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/815.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| TRT 1 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsm8OV6bMEhk7EDtQrFkcny1gm8421kGasZAzBKwjaUzd.png" group-title="Ulusual-FHD",TR| TRT 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| TRT 1 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsm8OV6bMEhk7EDtQrFkcny1gm8421kGasZAzBKwjaUzd.png" group-title="Ulusal",TR| TRT 1 FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| TRT 2 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cpn2WyLXrD9yTN5rFJtApV9Xt5PtjtWO-fFDC8Iu4I4bg.png" group-title="Ulusual-FHD",TR| TRT 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| TRT 2 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cpn2WyLXrD9yTN5rFJtApV9Xt5PtjtWO-fFDC8Iu4I4bg.png" group-title="Ulusal",TR| TRT 2 FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| Show TV FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsoaisc_WV_YUY9EhjvoQ6STQTUPWBnEeYiwk--YWp4et.png" group-title="Ulusual-FHD",TR| Show TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| Show TV FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsoaisc_WV_YUY9EhjvoQ6STQTUPWBnEeYiwk--YWp4et.png" group-title="Ulusal",TR| Show TV FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| Kanal D FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsqrfrIiA24-MSYDkHd3t9d9lLTcCCk3YELNlsBjNTkBe.png" group-title="Ulusual-FHD",TR| Kanal D FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| Kanal D FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsqrfrIiA24-MSYDkHd3t9d9lLTcCCk3YELNlsBjNTkBe.png" group-title="Ulusal",TR| Kanal D FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| ATV FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8coT7UE4bAlM7NWRE2htc7Fm.png" group-title="Ulusual-FHD",TR| ATV FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| ATV FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8coT7UE4bAlM7NWRE2htc7Fm.png" group-title="Ulusal",TR| ATV FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| Star TV FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cq5VU4jwDf79ntW96WeRa9fZ9LKpzXQegZdS_1p0v6kzA.jpg" group-title="Ulusual-FHD",TR| Star TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| Star TV FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cq5VU4jwDf79ntW96WeRa9fZ9LKpzXQegZdS_1p0v6kzA.jpg" group-title="Ulusal",TR| Star TV FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| Fox FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8comh5wa-ZTbwQiePO4UBuB0VbBRGQ2ek0jZW0oIqnDn8g.png" group-title="Ulusual-FHD",TR| Fox FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| Fox FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8comh5wa-ZTbwQiePO4UBuB0VbBRGQ2ek0jZW0oIqnDn8g.png" group-title="Ulusal",TR| Fox FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154041.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR| TV 8 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cpvAj7j2BCdmh4JDs7LeSpOuljNClANZ8bCNhmgp-ZtfQ.png" group-title="Ulusual-FHD",TR| TV 8 FHD
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR| TV 8 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cpvAj7j2BCdmh4JDs7LeSpOuljNClANZ8bCNhmgp-ZtfQ.png" group-title="Ulusal",TR| TV 8 FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| TV 8.5 FHD" tvg-logo="http://tvd.naam.ro/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cpkUFTdtGSo41yiEdqObjdz8NUFk-kzlx5mcGkfBYNwPQ.png" group-title="Spor-FHD",TR| TV 8.5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| TV 8.5 FHD" tvg-logo="http://tvd.naam.ro/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cpkUFTdtGSo41yiEdqObjdz8NUFk-kzlx5mcGkfBYNwPQ.png" group-title="Spor",TR| TV 8.5 FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| Kanal 7 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8crQx_kww8BwOLGkBlOfv1uoWL2ChYwWdPTvHRw5O6H9aw.jpg" group-title="Ulusual-FHD",TR| Kanal 7 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| Kanal 7 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8crQx_kww8BwOLGkBlOfv1uoWL2ChYwWdPTvHRw5O6H9aw.jpg" group-title="Ulusal",TR| Kanal 7 FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| Beyaz TV FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qso7tQtcgd_LYtiTJCML-d4jUEPc_697fLf2Jw34clAOu.png" group-title="Ulusual-FHD",TR| Beyaz TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| Beyaz TV FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qso7tQtcgd_LYtiTJCML-d4jUEPc_697fLf2Jw34clAOu.png" group-title="Ulusal",TR| Beyaz TV FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| A2 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cqJG7QHKb2mPfuFCiLUt7tR.png" group-title="Ulusual-FHD",TR| A2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| A2 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cqJG7QHKb2mPfuFCiLUt7tR.png" group-title="Ulusal",TR| A2 FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| ATV Avrupa" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI2_2HY8N7MvSVnrDD77WTP_HGX7e4c2saflVFGUZWSqpQ.png" group-title="Ulusual",TR| ATV Avrupa
+#EXTINF:-1 tvg-id="" tvg-name="TR| ATV Avrupa" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI2_2HY8N7MvSVnrDD77WTP_HGX7e4c2saflVFGUZWSqpQ.png" group-title="Ulusal",TR| ATV Avrupa
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/17959.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR| EURO D" tvg-logo="http://tvd.naam.ro/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3gm7OG_aQ2urOWl9yk8ZkQtvEd7Z49oGJR6Zeant9xgA.png" group-title="Turkey",TR| EURO D
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/2101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| EURO STAR" tvg-logo="https://tvd.naam.ro:2083/images/-4OnBYYkfvePk1cYw465luAlQAwqKp-RVJqghjTLwaYijYMCQK7vmCWqBIAwsFu4.png" group-title="Ulusual",TR| EURO STAR
+#EXTINF:-1 tvg-id="" tvg-name="TR| EURO STAR" tvg-logo="https://tvd.naam.ro:2083/images/-4OnBYYkfvePk1cYw465luAlQAwqKp-RVJqghjTLwaYijYMCQK7vmCWqBIAwsFu4.png" group-title="Ulusal",TR| EURO STAR
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/2100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| Show Turk HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI0zQHgznx1zdvlyvHrroeVFaZ3MzbwIjzTX__Ey2mjb9g.png" group-title="Ulusual",TR| Show Turk HD
+#EXTINF:-1 tvg-id="" tvg-name="TR| Show Turk HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI0zQHgznx1zdvlyvHrroeVFaZ3MzbwIjzTX__Ey2mjb9g.png" group-title="Ulusal",TR| Show Turk HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/21521.m3u8
-#EXTINF:-1 tvg-id="KAN7AVR" tvg-name="TR| Kanal 7 Avrupa HD" tvg-logo="http://tvd.naam.ro/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI2sPW_bzyIQyrb-C2-bWRv5PNidykzXcpMgf4HE3yqIKg.png" group-title="Ulusual",TR| Kanal 7 Avrupa HD
+#EXTINF:-1 tvg-id="KAN7AVR" tvg-name="TR| Kanal 7 Avrupa HD" tvg-logo="http://tvd.naam.ro/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI2sPW_bzyIQyrb-C2-bWRv5PNidykzXcpMgf4HE3yqIKg.png" group-title="Ulusal",TR| Kanal 7 Avrupa HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/21519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| TV 8 Int" tvg-logo="http://serverwin.raam.ro:2536/png/tv8int.jpg" group-title="Ulusual-FHD",TR| TV 8 Int
+#EXTINF:-1 tvg-id="" tvg-name="TR| TV 8 Int" tvg-logo="http://serverwin.raam.ro:2536/png/tv8int.jpg" group-title="Ulusal",TR| TV 8 Int
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/21520.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR| Kanal Avrupa" tvg-logo="http://serverwin.raam.ro:2536/png/kanalavrupa.jpg" group-title="Turkey",TR| Kanal Avrupa
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/21523.m3u8
@@ -93,9 +93,9 @@ http://tvd.naam.ro:2082/live/hotspot050124/0643003000/214.m3u8
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/215.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR| Benguturk" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI18ptVzu5mUYQ58s1hWC3eHLSM2XlivFDxRRgDYPH_Pog.png" group-title="Haber",TR| Benguturk
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/799.m3u8
-#EXTINF:-1 tvg-id="SkyTurk360.tr" tvg-name="TR| 360 TV" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3Qjv96Rnh-HBTMo-zcXdkUAXRZbBuSvOR1CdZ6VFU6uA.png" group-title="Ulusual",TR| 360 TV
+#EXTINF:-1 tvg-id="SkyTurk360.tr" tvg-name="TR| 360 TV" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3Qjv96Rnh-HBTMo-zcXdkUAXRZbBuSvOR1CdZ6VFU6uA.png" group-title="Ulusal",TR| 360 TV
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/21544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| TELE 1" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI11ncqMmUoli0GpZxCzO6Q_gU2MmR5s_52wDhIuU3tGZg.png" group-title="Ulusual",TR| TELE 1
+#EXTINF:-1 tvg-id="" tvg-name="TR| TELE 1" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI11ncqMmUoli0GpZxCzO6Q_gU2MmR5s_52wDhIuU3tGZg.png" group-title="Ulusal",TR| TELE 1
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/1958.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR| 24 HABER" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8cqeHOeWys9S2DpeW3YrAB4pI3ccsUwaTxIGZtsl_KPt6g.png" group-title="Haber",TR| 24 HABER
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/152786.m3u8
@@ -103,9 +103,9 @@ http://tvd.naam.ro:2082/live/hotspot050124/0643003000/152786.m3u8
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/152773.m3u8
 #EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="TR| AKIT TV" tvg-logo="https://tvd.naam.ro:2083/images/-4OnBYYkfvePk1cYw465luAlQAwqKp-RVJqghjTLwaZ3p7uvoUE6_b4-2F92pnY6.jpg" group-title="Haber",TR| AKIT TV
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/2060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| CEM TV" tvg-logo="http://tvd.naam.ro/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3c2PwzvBVavZTUpvIFpRLA21ZnDT5u-nZAdJjgNEF0zQ.png" group-title="Ulusual",TR| CEM TV
+#EXTINF:-1 tvg-id="" tvg-name="TR| CEM TV" tvg-logo="http://tvd.naam.ro/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3c2PwzvBVavZTUpvIFpRLA21ZnDT5u-nZAdJjgNEF0zQ.png" group-title="Ulusal",TR| CEM TV
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| TV 5" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI0RtIWta3elTn5ZKOjDHKrqmBYQQLTWIXBwQIJ64SJgCA.png" group-title="Ulusual",TR| TV 5
+#EXTINF:-1 tvg-id="" tvg-name="TR| TV 5" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI0RtIWta3elTn5ZKOjDHKrqmBYQQLTWIXBwQIJ64SJgCA.png" group-title="Ulusal",TR| TV 5
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/249.m3u8
 #EXTINF:-1 tvg-id="KRTTV.tr" tvg-name="TR| KRT TV HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3w7gntUNrwVr_8YY12eAi8xbEB3G-dygVR_O5U60RHCA.png" group-title="Haber",TR| KRT TV HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/239.m3u8
@@ -115,9 +115,9 @@ http://tvd.naam.ro:2082/live/hotspot050124/0643003000/21551.m3u8
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/21538.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="TR| HABER GLOBAL" tvg-logo="http://serverwin.raam.ro:2536/png/hg.jpg" group-title="Haber",TR| HABER GLOBAL
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/21549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| ÇAY TV HD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsncHqld7JsoRxEFFb3PW8_rBHfI82z5lgw_5YJVAKXVn.png" group-title="Ulusual",TR| ÇAY TV HD
+#EXTINF:-1 tvg-id="" tvg-name="TR| ÇAY TV HD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsncHqld7JsoRxEFFb3PW8_rBHfI82z5lgw_5YJVAKXVn.png" group-title="Ulusal",TR| ÇAY TV HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/152775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| MECLİS TV" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsrmVjyXmutZDFNlPlUJz3xesetdyNFQPpRGFOI_xT65j.jpeg" group-title="Ulusual",TR| MECLİS TV
+#EXTINF:-1 tvg-id="" tvg-name="TR| MECLİS TV" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsrmVjyXmutZDFNlPlUJz3xesetdyNFQPpRGFOI_xT65j.jpeg" group-title="Ulusal",TR| MECLİS TV
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/152776.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR| Flash TV Haber HD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qss73cEjDiHm0GBn9BxQ7DkRZTZUFdaRLc3SpX3ml4SvBmGyKw172KK0oJDyl-k72Hw.jpeg" group-title="Haber",TR| Flash TV Haber HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/152777.m3u8
@@ -127,7 +127,7 @@ http://tvd.naam.ro:2082/live/hotspot050124/0643003000/152780.m3u8
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/152792.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="TR| beIN Sports 1 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3fcSGU6ei3g_6jaFtR74qgmGh3pWrmYBBazy6eRuFjcg.png" group-title="Spor",TR| beIN Sports 1 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/2560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR| beIN Sports 1 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8coMqjGMjI_S5edAeDBS-HNeZZe-Lhlvw4es-mE8_kZeOg.png" group-title="Spor-FHD",TR| beIN Sports 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TR| beIN Sports 1 FHD" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8coMqjGMjI_S5edAeDBS-HNeZZe-Lhlvw4es-mE8_kZeOg.png" group-title="Spor",TR| beIN Sports 1 FHD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154052.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR| beIN Sports 1 4K" tvg-logo="https://tvd.naam.ro:2083/images/JB2IL7Obj-HsP5hAMT7qsnzlmBCz_L4kI2oHMPBw8coMqjGMjI_S5edAeDBS-HNeckAFwP1_bUmYP3NdFJTFtA.png" group-title="Spor-4K",TR| beIN Sports 1 4K
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/154035.m3u8
