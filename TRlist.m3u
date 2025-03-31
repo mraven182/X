@@ -15,7 +15,7 @@ http://tvd.naam.ro:2082/live/hotspot050124/0643003000/149.m3u8
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/150.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="TV8.tr" tvg-name=" TV 8 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI1eiqWtaa2jXTuuve1zuhxUTvMWn2J359wUZiEztw8EGg.png" group-title="Ulusal", TV 8 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/153.m3u8
-#EXTINF:-1 tvg-country="TR"  tvg-id="TV85.tr" tvg-name=" TV 8,5 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI0P9jCFDbXewa3ejyalnq1P0-nAeRr74J4x73TTzgpLNw.png" group-title="Spor",  TV 8,5 HD
+#EXTINF:-1 tvg-country="TR"  tvg-id="TV85.tr" tvg-name=" TV 8.5 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI0P9jCFDbXewa3ejyalnq1P0-nAeRr74J4x73TTzgpLNw.png" group-title="Spor",  TV 8.5 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/2198.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="TV2.tr" tvg-name=" Teve 2" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI1Tox7_pyFqSkReS1bwBrFBImO2qHS6yNKdR7fWBrMbvQ.png" group-title="Ulusal", Teve 2
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/294.m3u8
