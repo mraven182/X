@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR| TRT 1 HD" tvg-logo="https://tvd.naam.ro:2083/images/GcRqxL8At-nB8_v1HwX0_rDwZXDd-G8JDHjOSzMudwMzhZaOKF-1dO40ZB0v5hkHXs6QRoSLbuiAYG7lMEeMeQ.png" group-title="Turkey",TR| TRT 1 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR| TRT 2 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3u7h8Q1JSDS9LShKkIu-kApvCftvThi_QDusr3mSQXGA.png" group-title="Turkey",TR| TRT 2 HD
