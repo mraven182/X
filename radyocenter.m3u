@@ -2,44 +2,42 @@
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="Radyo 7" tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/images/radyo_7_kare.jpg" group-title="Popüler Radyolar",Radyo 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="Yol Arkadaşım" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-yol-arkadasim.jpg" group-title="Popüler Radyolar",Yol Arkadaşım
-https://playerservices.streamtheworld.com/api/livestream-redirect/YOL_ARKADASIM_SC?
+https://playerservices.streamtheworld.com/api/livestream-redirect/YOL_ARKADASIM128AAC.aac?/;stream.mp3
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="RADYO 45LİK" tvg-logo="https://radyo45lik.com/wp-content/uploads/2022/11/45lik_logo1a24.png" group-title="Popüler Radyolar",RADYO 45LİK
-https://stream.radyo45lik.com:4545/stream
+https://stream.radyo45lik.com:4545/stream.m3u
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="90'LAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cfJUX11PKkvPzT8LaulBWd2ms1ZDXxmjvA&s" group-title="Popüler Radyolar",90'LAR
-http://37.247.98.8/stream/166/
+https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="ALEM FM" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/bf/Alem_fm.jpg" group-title="Popüler Radyolar",ALEM FM
-https://turkmedya.radyotvonline.net/alemfmaac
-#EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="ARABESK FM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuw1EofgLtc1j91Atx0sUJveRuYm7BqwWf8Q&s" group-title="Popüler Radyolar",ARABESK FM
-http://anadolu.liderhost.com.tr:6688/
+https://alemfm.radyotvonline.net/alemfmaac?/;stream.mp3
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="FENOMEN" tvg-logo="https://play-lh.googleusercontent.com/4MB0BiCDOT5oI9uuCSD5SAb6y_JTGWLxrEsVI0FF2KoVrpYXyWfN7zH6qbbT-U1F5-wF" group-title="Popüler Radyolar",FENOMEN
 https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="İTÜ JAZZ - BLUES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlEqji-8YT40Q19VafP5cyUfZkzhoCFN0AA&s" group-title="Popüler Radyolar",İTÜ JAZZ - BLUES
-http://160.75.86.29:8088/stream/3/
+http://160.75.86.29:8088/stream/3/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="İTÜ KLASİK MUSİC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkBZ1MX3QId2HKrIW6iMk2EjbD2aYNJ9V-Pg&s" group-title="Popüler Radyolar",İTÜ KLASİK MUSİC
-http://160.75.86.29:8088/stream/5/
+http://160.75.86.29:8088/stream/5/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="İTÜ RADYOSU ROCK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReAePX_NXp-hC1-pRtcspornnyYWAAsAPaDPry8axfaQUYjJ_yKvsVfTSAoLqgtoWIFZ0&usqp=CAU" group-title="Popüler Radyolar",İTÜ RADYOSU ROCK
-http://160.75.86.29:8088/stream/1/
+http://160.75.86.29:8088/stream/1/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="KRAL FM" tvg-logo="https://www.radio.fr/300/kralfm.png?version=c02534bb0a3cd215a078ab3a5746e1a8" group-title="Popüler Radyolar",KRAL FM
-http://kraltunes.radyotvonline.com/
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="KRAL POP" tvg-logo="https://www.radio.fr/300/kralpop.png?version=3953316020b13029575d02e90122e3ae" group-title="Popüler Radyolar",KRAL POP
-http://kralpopwmp.radyotvonline.com/
+https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="POWERTÜRK AKUSTİK" tvg-logo="https://cdn-profiles.tunein.com/s222269/images/logog.png" group-title="Popüler Radyolar",POWERTÜRK AKUSTİK
 https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="RADYO TURKUVAZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJnwFjzrGWOTljpvdKmjHHfL5-pfNm11pIUQ&s" group-title="Popüler Radyolar",RADYO TURKUVAZ
 https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="RADYO TURKUAZ" tvg-logo="https://www.radioturkuaz.com//uploads/logo/logo10_2.png" group-title="Popüler Radyolar",RADYO TURKUAZ
-https://anadolu.liderhost.com.tr/8098/stream
+https://anadolu.liderhost.com.tr/8098/stream.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="TÜRKÜLERLE TÜRKİYE" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/turkulerle-turkiye-dinle.jpg" group-title="Popüler Radyolar",TÜRKÜLERLE TÜRKİYE
 https://moondigitalmaster.radyotvonline.net/turkulerleturkiye/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="POWER XL" tvg-logo="https://radyodinle.com/wp-content/uploads/2024/08/142-min.jpg" group-title="Popüler Radyolar",POWER XL
 https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8 
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="RADYO HABER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyz3CXwCu6ll9MdB9wrqBZheBF7ax0VKb_TA&s" group-title="Popüler Radyolar",RADYO HABER
-http://yayin.yayindakiler.com:4118/
+http://yayin.yayindakiler.com:4118/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="NTV RADYO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYsWq9c49mZdDOw-5vUEme9gT11iUDg5aJQ&s" group-title="Haber",NTV RADYO
-http://ntvrdwmp.radyotvonline.com/ 
+https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="A HABER RADYO" tvg-logo="https://pbs.twimg.com/profile_images/1399971499788939266/enP6RV-N_400x400.jpg" group-title="Haber",A HABER RADYO
 https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="TRT RADYO HABER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjyrgh5M7yYERGt6gthzicJ-0LjKPUwVuLg&s" group-title="Haber",TRT RADYO HABER
-https://trt.radyotvonline.net/trthaber
+https://trt.radyotvonline.net/trthaber.m3u
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="CNN TÜRK RADYO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuz-Rhrkea3eUm_JFzKP9CLs-g7ecaBh08g&s" group-title="Haber",CNN TÜRK RADYO
 https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
