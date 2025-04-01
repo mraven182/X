@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="Radyo 7" tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/images/radyo_7_kare.jpg" group-title="Popüler Radyolar",Radyo 7
-https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
+
 #EXTINF:-1 tvg-country="TR"  tvg-id="TRT1.tr" tvg-name=" TRT 1 HD" tvg-logo="https://tvd.naam.ro:2083/images/GcRqxL8At-nB8_v1HwX0_rDwZXDd-G8JDHjOSzMudwMzhZaOKF-1dO40ZB0v5hkHXs6QRoSLbuiAYG7lMEeMeQ.png" group-title="Ulusal", TRT 1 HD
 http://tvd.naam.ro:2082/live/hotspot050124/0643003000/146.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name=" TRT 2 HD" tvg-logo="https://tvd.naam.ro:2083/images/QbDrKAjV0v2cEAPuQSLXXI04nNiXiambfhF82Ok1JI3u7h8Q1JSDS9LShKkIu-kApvCftvThi_QDusr3mSQXGA.png" group-title="Ulusal", TRT 2 HD
