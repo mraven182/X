@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="Radyo 7" tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/images/radyo_7_kare.jpg" group-title="Popüler Radyolar",Radyo 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="Yol Arkadaşım" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-yol-arkadasim.jpg" group-title="Popüler Radyolar",Yol Arkadaşım
-https://playerservices.streamtheworld.com/api/livestream-redirect/YOL_ARKADASIM128AAC.aac?/;stream.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/YOL_ARKADASIM128AAC.aac
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="RADYO 45LİK" tvg-logo="https://radyo45lik.com/wp-content/uploads/2022/11/45lik_logo1a24.png" group-title="Popüler Radyolar",RADYO 45LİK
 https://stream.radyo45lik.com:4545/stream.m3u
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="90'LAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cfJUX11PKkvPzT8LaulBWd2ms1ZDXxmjvA&s" group-title="Popüler Radyolar",90'LAR
