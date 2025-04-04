@@ -26,7 +26,7 @@ https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/playlis
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="RADYO TURKUVAZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJnwFjzrGWOTljpvdKmjHHfL5-pfNm11pIUQ&s" group-title="Popüler Radyolar",RADYO TURKUVAZ
 https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="RADYO TURKUAZ" tvg-logo="https://www.radioturkuaz.com//uploads/logo/logo10_2.png" group-title="Popüler Radyolar",RADYO TURKUAZ
-https://anadolu.liderhost.com.tr/8098/playlist.m3u8
+https://anadolu.liderhost.com.tr/8098/stream
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="TÜRKÜLERLE TÜRKİYE" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/turkulerle-turkiye-dinle.jpg" group-title="Popüler Radyolar",TÜRKÜLERLE TÜRKİYE
 https://moondigitalmaster.radyotvonline.net/turkulerleturkiye/playlist.m3u8
 #EXTINF:-1 tvg-country="TR"  tvg-id="" tvg-name="POWER XL" tvg-logo="https://radyodinle.com/wp-content/uploads/2024/08/142-min.jpg" group-title="Popüler Radyolar",POWER XL
